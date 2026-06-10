@@ -111,6 +111,7 @@
           dell-inspiron-14-5420 = import ./dell/inspiron/14-5420;
           dell-inspiron-5509 = import ./dell/inspiron/5509;
           dell-inspiron-5515 = import ./dell/inspiron/5515;
+          dell-inspiron-13-7353 = import ./dell/inspiron/13-7353;
           dell-inspiron-7405 = import ./dell/inspiron/7405;
           dell-inspiron-7460 = import ./dell/inspiron/7460;
           dell-inspiron-7559 = import ./dell/inspiron/7559;
@@ -213,6 +214,7 @@
           intel-nuc-7i3bnb = import ./intel/nuc/7i3bnb;
           intel-nuc-8i7beh = import ./intel/nuc/8i7beh;
           intel-nuc-12wshi7 = import ./intel/nuc/12wshi7;
+          lattepanda-sigma = import ./lattepanda/sigma;
           lenovo-ideacentre-k330 = import ./lenovo/ideacentre/k330;
           lenovo-ideapad-14imh9 = import ./lenovo/ideapad/14imh9;
           lenovo-ideapad-15alc6 = import ./lenovo/ideapad/15alc6;
