@@ -1,5 +1,5 @@
 {
-  "base_url": "https://raw.githubusercontent.com/t2linux/linux-t2-patches/29e087c152d0ed9c031d150e834c44925c0e8291/",
+  "base_url": "https://raw.githubusercontent.com/t2linux/linux-t2-patches/3ed00f4a8ca8e524b25da9c960f0990ca03801bb/",
   "patches": [
     {
       "name": "1001-Add-t2bce-driver-stack.patch",
@@ -55,7 +55,7 @@
     },
     {
       "name": "4001-asahi-trackpad.patch",
-      "hash": "sha256-+YXyIjtlVrLo8allTO3M1A+xold5FUXaZ8dwD2j5HDc="
+      "hash": "sha256-O4VroQXfCX+iE2IYI6sM2mdtyfRdQpRoj1aur3Qxglc="
     },
     {
       "name": "4003-HID-apple-ignore-the-trackpad-on-T2-Macs.patch",
@@ -83,7 +83,7 @@
     },
     {
       "name": "8001-Add-APFS-driver.patch",
-      "hash": "sha256-b0Cdfrysfjws3ASdHAqjSjUdcGOFoEizE1GaW+fAYTQ="
+      "hash": "sha256-xtyIqhOZNqnPeNTgLpPA3Fy275FbSETmwvxgAb3iz8E="
     },
     {
       "name": "8002-Necessary-modifications-to-build-APFS-with-the-kerne.patch",
