@@ -1,5 +1,5 @@
 {
-  "base_url": "https://raw.githubusercontent.com/t2linux/linux-t2-patches/3ed00f4a8ca8e524b25da9c960f0990ca03801bb/",
+  "base_url": "https://raw.githubusercontent.com/t2linux/linux-t2-patches/58a92ceca12750a9d967ccb2febcb534b9b3d690/",
   "patches": [
     {
       "name": "1001-Add-t2bce-driver-stack.patch",
@@ -55,19 +55,15 @@
     },
     {
       "name": "4001-asahi-trackpad.patch",
-      "hash": "sha256-O4VroQXfCX+iE2IYI6sM2mdtyfRdQpRoj1aur3Qxglc="
+      "hash": "sha256-2h3TdPsX9HBXx5jkZ2S2GJkjFcdL8vKD1G69iqd9IWg="
     },
     {
       "name": "4003-HID-apple-ignore-the-trackpad-on-T2-Macs.patch",
-      "hash": "sha256-T2tYcFLeWUdx6QawANe3ZNVSRxmo1IdPiSpGLQk4IDY="
+      "hash": "sha256-LLZzcysLTuQrSXWXbdq7AASxfMInQoqpWzRNZAKws9k="
     },
     {
       "name": "4004-HID-magicmouse-Add-support-for-trackpads-found-on-T2.patch",
-      "hash": "sha256-ubchCEv1BZ7t/zkI9DpHA4gUln9cdu4yHzVJI2TNlS0="
-    },
-    {
-      "name": "4005-HID-magicmouse-fix-regression-breaking-support-for-M.patch",
-      "hash": "sha256-oT+3AeETnKfzblxtcTD18c61BKoD9yAsga0AL3R8u7k="
+      "hash": "sha256-kUnbtl/54cihscirl9kP0Gsot7bdP0rYKlj6gQ10hk0="
     },
     {
       "name": "5001-HID-appletb-kbd-add-option-to-switch-default-layer-o.patch",
@@ -83,7 +79,7 @@
     },
     {
       "name": "8001-Add-APFS-driver.patch",
-      "hash": "sha256-xtyIqhOZNqnPeNTgLpPA3Fy275FbSETmwvxgAb3iz8E="
+      "hash": "sha256-uK7TrcoOyNpJ1jcqx+N/T2aE0vFvNb/dI1xfwXqfjrQ="
     },
     {
       "name": "8002-Necessary-modifications-to-build-APFS-with-the-kerne.patch",
